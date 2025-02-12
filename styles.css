@@ -1,15 +1,15 @@
 body{
-  font-family: Georgia, serif;
+  font-family: sans-serif, cursive; 
   text-align: center;
-  margin-top: 75px;
+  margin-top: 1500px;
   background-color: #EA9999;
 }
 button{
   background-color: #F0C807;
   color: green;
-  padding: 25px 32px;
+  padding: 600px 500px;
   text-align: center;
-  font-size: 18px;
-  margin: 5px 3px;
+  font-size: 400px;
+  margin: 600px 900px;
   cursor: pointer;
 }
