@@ -2,9 +2,10 @@ body{
   font-family: Georgia, serif;
   text-align: center;
   margin-top: 75px;
+  background-color: #FFOOOO
 }
 button{
-  background-color: #FOC807;
+  background-color: #FOC8O7;
   color: green;
   padding: 25px 32px;
   text-align: center;
